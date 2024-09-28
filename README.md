@@ -1,6 +1,6 @@
 # aquatech-somente-html
 # Introducão
-- Atividade de Flex-Box 02.
+- Atividade do site AquaTech.
 
 
 ##  :beginner: Sobre
